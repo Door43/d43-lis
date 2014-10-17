@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lis:home|Door43 (lis)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lis|d43-lis repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lis/archive/master.zip|d43-lis.zip]]
+
+**Recent Changes**
+{{changes>ns = lis}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lis|Ethnologue data]]
+
